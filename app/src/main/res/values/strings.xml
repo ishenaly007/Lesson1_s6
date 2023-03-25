@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lesson1_s6</string>
+    <string name="add_picture">Add picture</string>
+    <string name="random_choose">Random Choose</string>
+    <string name="todo">TODO</string>
+    <string name="picture_url_address">picture URL address</string>
+</resources>
